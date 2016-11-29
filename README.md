@@ -37,19 +37,17 @@ it at:
 • If the classpath is set correctly, you can now use any of the functions defined
 in the `aima.core.logic.fol.*` package.
 
-• You are now ready to try out the code. Copy FolDemo.java to your home
-directory by typing the following command:
+• You are now ready to try out the code. Copy `FolDemo.java DomainFactory.java FOLKnowledgeBaseFactory.java` to your home directory
 
-    > 'cp ‘‘my path to’’/aima-java/aima-gui/src/main/java/aima/gui/demo/logic/FolDemo.java' .
-    
-• Open `FolDemo.java` in your favorite editor. For example, if you are using vi,
-then type the following command:
-
-    > vi FolDemo.java
 
 • Compile the java file by typing the following command:
 
     > javac FolDemo.java DomainFactory.java FOLKnowledgeBaseFactory.java
+    
+• Open `FolDemo.java` in your favorite editor to edit or modify. For example, if you are using vi,
+then type the following command:
+
+    > vi FolDemo.java
     
 Run the compiled code by typing the following command:
 
